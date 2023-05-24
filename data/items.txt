@@ -1,0 +1,2 @@
+1,1,Book,New Name,New Author,None,None
+3,1,Article,Article,None,My Journal,None
